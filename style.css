@@ -67,7 +67,7 @@ body {
 }
 .gantt-chart-area {
   position: relative;
-  top: 60px;
+  top: 2.5%;
 }
 .gantt-bar {
   position: absolute;
